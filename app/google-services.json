@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "798468832375",
+    "firebase_url": "https://mobileresto-e5733.firebaseio.com",
+    "project_id": "mobileresto-e5733",
+    "storage_bucket": "mobileresto-e5733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798468832375:android:4716c45daa9f0e77",
+        "android_client_info": {
+          "package_name": "com.alriftech.mobileresto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798468832375-jue81emq36eekg2k5mdfe09kt60m16no.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsWeHT3dmJSuYjIYeQIJjwXtD3ie0zcEs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

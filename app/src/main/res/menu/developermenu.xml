@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnuDevPelanggan"
+        android:title="Pelanggan" />
+
+    <item
+        android:id="@+id/mnuDevTransaksi"
+        android:title="Transaksi" />
+
+    <item
+        android:id="@+id/mnuDevMakanan"
+        android:title="Menu Makanan" />
+
+    <item android:id="@+id/mnuDevDelDb"
+        android:title="Delete database" />
+
+    <item android:id="@+id/mnuGenMenu"
+        android:title="Generate Menu" />
+</menu>
